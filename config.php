@@ -3,7 +3,7 @@
 // ====== WHATSAPP CLOUD API CONFIGURATION ======
 
 // Meta Developers → WhatsApp → API Setup
-define('WA_TOKEN',        getenv('WA_TOKEN') ?: 'EAAge0dkJZCwcBSlLEdOXbN6xRsctZBlXj6KwKpS2kzWS5GZC2d8PKgUUg2qKS5JcPQ7UKbjxWt0FAYHivC8S4oMTEeivn9fXCfsSJqBjydldXPkzpriSunXm8rQaWy6GQWeZCuZC8pzJZCUoC2cmTt2TfBAVLyxhb8oCAppuZBtpM7OjVs1B7Vaoe583SBdGyMQUdpmF5eEqsWVK92f23ZBL5qdpHjlKe0fKSsNcbYEueFKtaLAympI4ckGlWHLFRZAWa5ZB6VI7r2eRejWLHZA1PkEOdoq');
+define('WA_TOKEN',        getenv('WA_TOKEN') ?: 'EAAge0dkJZCwcBSuKIjnpO4EDUfMaXo1DhnEpOaxuo3RVloCe3d2B73ytjyXyv699nuzq7qcbNs5cACcBLGFSO8C3JQ7utEIkjoerd91ZC7KuUELrMwTJZBZBZBy7CEamh7yZCgmA7VLf1RclFakfwLEnQcexkTSnaWHtYOZCiKhWHZChuZC1wZB6gU0L3Tn3ZCxNCX5b3uFKH59hkusM8cSggbV4SNXVpdtvmFuoeys117O80ywlgMJrXtAhZBKETaMZCAh40XxZBkLmIjq7ZAWmzGJmb97xZCB6');
 define('WA_PHONE_ID',     getenv('WA_PHONE_ID') ?: '1338524816018040');
 
 // Meta Webhook verification ke liye apna secret text
